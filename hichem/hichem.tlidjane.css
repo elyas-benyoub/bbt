@@ -1,0 +1,11 @@
+h1,h2,header {
+    text-align: center;
+}
+.blue {
+    color:cyan;
+    background-color: black;
+}
+body {
+    color:white;
+    background-color:rgb(37, 34, 34);
+}
